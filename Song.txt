@@ -1,6 +1,3 @@
 Let's go back to gitbash.
 But now we should add 2 more lines.
 Try to learn Git GUI.
-
-Attack!
-_______________________
