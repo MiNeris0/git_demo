@@ -4,3 +4,4 @@ Try to learn Git GUI.
 
 Attack!
 _______________________
+And don`t way back.
